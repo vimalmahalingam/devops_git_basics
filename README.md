@@ -1,1 +1,1 @@
-this is a demo session for devops git basics
+this is a demo session for devops git basics.Read me file is added.
